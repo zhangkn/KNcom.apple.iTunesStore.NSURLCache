@@ -1,0 +1,1 @@
+# KNcom.apple.iTunesStore.NSURLCache
